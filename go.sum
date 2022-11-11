@@ -1,0 +1,4 @@
+github.com/MuhammadImran696/RSS-Reader-package v0.0.2 h1:qDopyppgHeDlzEN6MNCrOy63sUHNfjPQ6vJQoiYOR80=
+github.com/MuhammadImran696/RSS-Reader-package v0.0.2/go.mod h1:AK5ykgxGGozB2/Syq93SpbvAk60KXdJ1/wDmVXJtqiQ=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
